@@ -1,6 +1,6 @@
 # Alurabook - viacep api
 
-Formulário com verificação de cep automática
+Formulário com verificação e preenchimento de cep automático
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
