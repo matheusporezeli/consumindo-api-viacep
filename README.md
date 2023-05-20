@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Alurabook - viacep api
 
-Rápida descrição do objetivo de fazer esse projeto
+Formulário com verificação de cep automática
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Nome        | **Alurabook - viacep api**
+| :label: Tecnologias | Javascript, Viacep api
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
