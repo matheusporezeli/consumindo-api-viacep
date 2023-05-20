@@ -6,12 +6,24 @@ Formulário com verificação de cep automática
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabook - viacep api**
 | :label: Tecnologias | Javascript, Viacep api
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :rocket: URL         | https://consumindo-api-viacep.vercel.app
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![video](https://github.com/matheusporezeli/consumindo-api-viacep/assets/112051389/f97d49ee-72db-4e37-ae9f-3fef62512bb7#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Com esse projeto aprendi a identificar o fluxo de eventos do JavaScript e como ele funciona, através do Event Loop, do Task Queue e do Call Stack.
+Como consumir uma API e fazer o tratamento dos dados recebidos via Fetch API, fazendo Promises e utilizando dos métodos dessas Promises.
+Manipular o DOM para captar o valor que aquele usuário colocou na tela de cadastro e depois, para autopreencher aqueles valores retornados da API, nos outros campos desse site.
+Além de ver um pouco sobre JS Síncrono e Assíncrono.
+
+Códigos aprendidos:
+
+- .then()
+- .json()
+- .catch
+- .finally
+- método async await
+- try {}
+- promise.all
